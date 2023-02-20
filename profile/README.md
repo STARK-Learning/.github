@@ -1,4 +1,4 @@
-![cover](cover.png)
+![cover](profile/cover.png)
 
 ## About
 
